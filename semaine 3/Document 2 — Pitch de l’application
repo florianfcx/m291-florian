@@ -1,0 +1,6 @@
+Document 2 — Pitch de l’application
+L’application sert à classer les membres d’un club d’aviron selon différentes métriques et à comparer leurs performances.
+
+Elle s’adresse à Marc, 23 ans, économiste et rameur de compétition. La tâche principale consiste à consulter les résultats, à comparer les membres et à voir leur classement.
+
+Les données utilisées sont des fiches de rameurs contenant leur nom, leur âge, leur club, leurs résultats et leurs différentes performances. Le projet reste réalisable en quatre semaines, car l’application peut se limiter à l’affichage de données fictives, au tri des résultats et à la présentation d’un classement simple.
